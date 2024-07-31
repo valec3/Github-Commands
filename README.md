@@ -103,3 +103,4 @@ doc/**/*.pdf
 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Data camp Cheat Sheet](https://www.datacamp.com/cheat-sheet/git-cheat-sheet)
